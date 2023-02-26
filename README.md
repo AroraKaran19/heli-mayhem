@@ -6,7 +6,7 @@ Helicopter Mayhem is a simple 2D shooter game made using the Pygame library. Pla
 
 To install Helicopter Mayhem, follow these steps:
 
-1. Clone the repository from GitHub: `git clone https://github.com/yourusername/helicopter-mayhem.git`
+1. Clone the repository from GitHub: `git clone https://github.com/AroraKaran19/heli-mayhem`
 2. Run the game: `python main.py`
 3. Accept the installation of the necessary dependencies.
 
@@ -30,6 +30,6 @@ Helicopter Mayhem was created by Karan Arora. It uses the Pygame library, which 
 
 ## License
 
-Helicopter Mayhem is distributed under the CC-NC license. See the `LICENSE` file for more information.
+Helicopter Mayhem is distributed under the CC-NC license. See the [LICENSE]("https://github.com/AroraKaran19/heli-mayhem/blob/temp/LICENSE.MD") file for more information.
 
 Enjoy playing Helicopter Mayhem!
