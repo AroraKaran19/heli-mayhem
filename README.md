@@ -30,6 +30,6 @@ Helicopter Mayhem was created by Karan Arora. It uses the Pygame library, which 
 
 ## License
 
-Helicopter Mayhem is distributed under the CC-NC license. See the [LICENSE](https://github.com/AroraKaran19/heli-mayhem/blob/temp/LICENSE.MD) file for more information.
+Helicopter Mayhem is distributed under the GPL-3 license. See the [LICENSE](https://github.com/AroraKaran19/heli-mayhem/blob/temp/LICENSE.MD) file for more information.
 
 Enjoy playing Helicopter Mayhem!
