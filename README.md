@@ -26,7 +26,7 @@ Contributions to Helicopter Mayhem are welcome! To contribute, follow these step
 
 ## Credits
 
-Helicopter Mayhem was created by Karan Arora. It uses the Pygame library, which is distributed under the LGPL license.
+Helicopter Mayhem created by Karan Arora. It uses the Pygame library, which is distributed under the GPL license.
 
 ## License
 
